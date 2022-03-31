@@ -8,7 +8,7 @@ Hi there 👋
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I hate bugs, both real and digital
 
-A day in the life:
+A day in the life
 - 🥯 Breakfast
 - 💻 Code
 - 📖 I have other classes?
