@@ -1,5 +1,4 @@
 Hi there 👋
-
 - 🔭 I’m currently working on life, and trying to survive through college
 - 🌱 I’m currently learning how to not get a breakdown for not having enough time for anything, although I have time to watch YouTube and play RPGs
 - 👯 I’m looking to collaborate on [Empty_List]
@@ -8,7 +7,7 @@ Hi there 👋
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I hate bugs, both real and digital
 
-A day in the life
+A day in the life ☀️
 - 🥯 Breakfast
 - 💻 Code
 - 📖 I have other classes?
